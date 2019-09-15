@@ -1,0 +1,9 @@
+body
+    {
+    background-color: floralwhite;
+    
+    }
+li.note, dl.note
+    {
+     color: darkmagenta;
+    }
